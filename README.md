@@ -29,7 +29,6 @@ I am majoring in Computer Science and took many math and programming classes alo
 + Communication
 + Problem-solving
 ---
----
 ### Communication
 Successfully communicate project requirements with coworkers to make sure the clients are satisfied.
 
