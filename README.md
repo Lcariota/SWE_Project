@@ -1,7 +1,9 @@
 # SWE_Project
 Welcome to the project repository for Team 2 and our 2023 Introduction to SWE project!
 # Project Plan
+---
 # Team Resumes
+---
 ## Brandy Wingfield
 ###  Developer
 ---
@@ -28,7 +30,7 @@ I am majoring in Computer Science and took many math and programming classes alo
 + Multitasking
 + Communication
 + Problem-solving
-
+---
 ---
 ### Communication
 Successfully communicate project requirements with coworkers to make sure the clients are satisfied.
