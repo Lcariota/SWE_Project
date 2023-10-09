@@ -3,8 +3,7 @@ Welcome to the project repository for Team 2 and our 2023 Introduction to SWE pr
 # Project Plan
 ---
 # Team Resumes
-## Brandy Wingfield
-###  Developer
+## Brandy Wingfield: Developer
 ---
 ### Contact 
 ##### Email: Bwingfi3@students.kennesaw.edu
