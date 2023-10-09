@@ -1,4 +1,4 @@
-# SWE_Project
+# SWE Fall Project Team 2
 Welcome to the project repository for Team 2 and our 2023 Introduction to SWE project!
 # Project Plan
 ---
