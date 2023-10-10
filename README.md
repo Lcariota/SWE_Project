@@ -7,6 +7,7 @@ We will create a small animal adoption site using Java and JavaFX along with SQL
   + [Kendal Elison](Kendal-Elison-Resume.md)
   + [Vanesa Gomes](Vanesa-Gomes-Resume.md)
   + [Laurel Cariota](Laurel-Cariota-Resume.md)
+  + [Vanesa Gomes](Vanesa-Gomes-Resume.md)
 
 + **Team Assignments**
 
