@@ -1,5 +1,4 @@
 # Brandy Wingfield
-##  Developer
 ---
 ## Contact 
 #### Email: Bwingfi3@students.kennesaw.edu
