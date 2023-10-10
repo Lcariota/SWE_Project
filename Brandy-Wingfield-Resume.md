@@ -5,8 +5,9 @@
 
 ## Education
 #### Kennesaw State University
-##### Computer Science Major (2020 - Present)
-##### GPA 3.2
++ Computer Science Major (2020 - Present)
++ Expected Graduation: May 2025
++ GPA 3.2
 
 ## Relevant Course Work
 + Object-Oriented Programming
