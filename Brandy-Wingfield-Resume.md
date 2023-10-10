@@ -1,12 +1,9 @@
 # Brandy Wingfield
 ---
-## Contact 
+## Personal Links 
 #### Email: Bwingfi3@students.kennesaw.edu
 #### GitHub: https://github.com/brandyy2/Assignments.git
 ---
-## Objective
-To obtain a position that builds my programming skills and helps me understand what it is like to work in the programming field. Also, to build my communication skill in the tech industry.
-***
 ## Education
 #### Kennesaw State University
 ##### Computer Science Major (2020 - Present)
