@@ -1,5 +1,5 @@
 # Brandy Wingfield
-##### Contact: Bwingfi3@students.kennesaw.edu
+**Contact**: Bwingfi3@students.kennesaw.edu
 
 ## Personal Links 
 **GitHub**: https://github.com/brandyy2/Assignments.git
