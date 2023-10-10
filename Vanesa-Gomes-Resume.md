@@ -1,8 +1,10 @@
 # Vanesa Gomes
 **Contact**:  vgomes6@students.kennesaw.edu
 
-**Github**: https://github.com/vanesagomes
+## Personal Links
+**LinkedIn**: https://www.linkedin.com/in/vanesa-gomes-935342262/
 
+**Github**: https://github.com/vanesagomes
 
 ## Education
 **KENNESAW STATE UNIVERSITY**
