@@ -3,29 +3,25 @@
 ## Personal Links 
 #### Email: Bwingfi3@students.kennesaw.edu
 #### GitHub: https://github.com/brandyy2/Assignments.git
----
+
 ## Education
 #### Kennesaw State University
 ##### Computer Science Major (2020 - Present)
 ##### GPA 3.2
----
-## Experience
-#### Programming (2022 - Present)
-I am majoring in Computer Science and took many math and programming classes along the way. I have been coding in java for over a year now. I have taken two intro level programing classes that introduced me to loops, methods, and object-oriented programming. I also took a data structures class, which taught me how to use nodes, and manipulate tables. Other than Java, I have coded assignments in Python, C#, and R.
 
----
-## Key Skills
-+ Programming
-+ Strong Algebra Skills
-+ Multitasking
-+ Communication
-+ Problem-solving
+## Relevant Course Work
++ Object-Oriented Programming
++ Data Structures
++ Calculus
++ Linear Algebra
++ Networking
++ Software Engineering
 
----
-## Communication
-Successfully communicate project requirements with coworkers to make sure the clients are satisfied.
-
----
+## Technical Skills
+### Languages
+Java, Python, C#, and R
+### Frameworks
+JavaFX and GitHub/GitHub Desktop
 ## Leadership
 Managing not only the software, but also my coworkers to make sure that we have all the requirements for the project.
 
