@@ -26,11 +26,11 @@
 
 ## Technical Skills
 
-## Tools
+### Tools
 IntelliJ Idea, YouTrack, Access
 
-## Database management
+### Database management
 SQL
 
-## Languages
+### Languages
 Java
