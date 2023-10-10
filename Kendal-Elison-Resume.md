@@ -3,6 +3,7 @@
 
 ## Personal Links
 **LinkedIN**: https://www.linkedin.com/in/kendal-elison-9b52951b4/
+
 **Github**: https://github.com/Elisk22
 
 ## Education
