@@ -8,7 +8,7 @@ Listed below are our individual assignments. While we all have our individual as
 + Laurel will help with front-end development which focuses on how to design and implement user interface features. She will also be responsible for the documentation throughout the project ensuring organization and readability. 
 
 [**Brandy Wingfield**](Brandy-Wingfield-Resume.md)
-+ Brandy will aid in front-end development focusing on a smooth UI design along with recording each presentation. 
++ Brandy will aid in front-end development focusing on a smooth UI design along with recording and walking through each presentation. 
 
 [**Vanesa Gomes**](Vanesa-Gomes-Resume.md)
 + Vanesa will also aid in front-end development, implementing user interface features for a smooth design. She will also work on presentation prep to ensure a polished final product. 
