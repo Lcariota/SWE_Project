@@ -9,8 +9,6 @@
 ## Education
 **KENNESAW STATE UNIVERSITY**
 + English as a Second Language 2021
-
-**KENNESAW STATE UNIVERSITY**
 + Expected Graduation: May 2025
 + Bachelor's in Computer Science
 + GPA 3.69
