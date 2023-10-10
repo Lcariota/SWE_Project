@@ -16,6 +16,8 @@
 + Linear Algebra
 + Networking
 + Software Engineering
++ Technical Writing
++ Professional Practices & Ethics
 
 ## Technical Skills
 ### Languages
