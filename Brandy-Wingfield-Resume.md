@@ -4,7 +4,7 @@
 ##### GitHub: https://github.com/brandyy2/Assignments.git
 
 ## Education
-#### Kennesaw State University
+**KENNESAW STATE UNIVERSITY**
 + Computer Science Major (2020 - Present)
 + Expected Graduation: May 2025
 + GPA 3.2
@@ -26,6 +26,7 @@ Java, Python, C#, and R
 GitHub/GitHub Desktop
 ### Tools
 IntelliJ IDEA, RStudio, and YouTrack
-## Leadership
+
+## Leadership/Activities 
 Managing not only the software, but also my colleagues to make sure that we have all the requirements for the project.
 
