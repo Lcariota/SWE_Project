@@ -1,5 +1,5 @@
 # SWE Fall Project Team 2
-Welcome to the project repository for Team 2 and our 2023 Introduction to SWE project! Here you will find all of the inforation, presentations, documentation, and source code for our SWE 3313 term project.
+Welcome to the project repository for Team 2 and our 2023 Introduction to SWE project! Here you will find all of the information, presentations, documentation, and source code for our SWE 3313 term project.
 
 We will create a small animal adoption site using Java and JavaFX along with SQL to run an adoption site for an animal shelter. Posting the adoption fees along with each potential pet!
 
@@ -7,11 +7,11 @@ We will create a small animal adoption site using Java and JavaFX along with SQL
   + [Kendal Elison](Kendal-Elison-Resume.md)
   + [Vanesa Gomes](Vanesa-Gomes-Resume.md)
   + [Laurel Cariota](Laurel-Cariota-Resume.md)
-  + [Vanesa Gomes](Vanesa-Gomes-Resume.md)
+  + [Brandy Wingfield](Brandy-Wingfield.md)
 
 + [**Team Assignments**](Team-Assignments.md)
 
-+ **Technology Selection**
++ [**Technology Selection**](Technology-Description.md)
 
 + **Project Plan**: 
 
