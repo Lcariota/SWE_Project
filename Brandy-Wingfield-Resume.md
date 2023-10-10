@@ -23,7 +23,9 @@
 ### Languages
 Java, Python, C#, and R
 ### Frameworks
-JavaFX and GitHub/GitHub Desktop
+GitHub/GitHub Desktop
+### Tools
+IntelliJ IDEA, RStudio, and YouTrack
 ## Leadership
-Managing not only the software, but also my coworkers to make sure that we have all the requirements for the project.
+Managing not only the software, but also my colleagues to make sure that we have all the requirements for the project.
 
