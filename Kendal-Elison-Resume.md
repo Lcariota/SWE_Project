@@ -14,6 +14,7 @@
 **Relevant Course Work**
 + Data Structures and Algorithms
 + Calculus
++ Discrete Mathematics
 + Computer Architecture Organization
 + Data Communications
 + Software Engineering
@@ -25,6 +26,9 @@ Java, Python, and C#
 
 ### Frameworks
 JavaFX and GitHub/GitHub Desktop
+
+### Tools
+Eclipse, IntelliJ, and Youtrack 
 
 ## Leadership/Activities
 **Women's Lacrosse Team 2023 - Now**
