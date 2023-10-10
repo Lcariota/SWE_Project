@@ -9,7 +9,7 @@ We will create a small animal adoption site using Java and JavaFX along with SQL
   + [Laurel Cariota](Laurel-Cariota-Resume.md)
   + [Vanesa Gomes](Vanesa-Gomes-Resume.md)
 
-+ **Team Assignments**
++ [**Team Assignments**](Team-Assignments.md)
 
 + **Technology Selection**
 
