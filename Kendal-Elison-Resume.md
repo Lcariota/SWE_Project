@@ -26,4 +26,7 @@ Java, Python, and C#
 ### Frameworks
 JavaFX and GitHub/GitHub Desktop
 
+## Leadership/Activities
+Currently a member of the school's D1 lacrosse team along with being a member of the honors college.
+
 
