@@ -27,10 +27,13 @@ Java, Python, and C#
 JavaFX and GitHub/GitHub Desktop
 
 ## Leadership/Activities
-**Women's Lacrosse Team**
+**Women's Lacrosse Team 2023 - Now**
 + Current member of the D1 women's lacrosse team here at Kennesaw participating at the highest level
 
-**Honors College**
-+ Currently a member of the honors college participating in honors level courses while maintaining a strict GPA
+**Honors College 2022 - Now**
++ Currently a member of the honors college participating in honors-level courses while maintaining a strict GPA
+
+**Women's Soccer Team 2022 - 2023**
++ Member of the D1 women's soccer team here at Kennesaw participating at the highest level****
 
 
