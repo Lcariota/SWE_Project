@@ -3,6 +3,7 @@
 
 ## Personal Links
 **LinkedIn**: https://www.linkedin.com/in/laurel-cariota-b5176628b/ 
+
 **Github**: https://github.com/Lcariota
 
 ## Education
