@@ -4,7 +4,7 @@ Welcome to the project repository for Team 2 and our 2023 Introduction to SWE pr
 We will create a small animal adoption site using Java and JavaFX along with SQL to run an adoption site for an animal shelter. Posting the adoption fees along with each potential pet!
 
 + **Meet Our Team**
-  + [Kendal Elison](Kendal-Elison-Resume.md)
+  + [Kendal Elison](Project-Plan/Kendal-Elison-Resume.md)
   + [Vanesa Gomes](Vanesa-Gomes-Resume.md)
   + [Laurel Cariota](Laurel-Cariota-Resume.md)
   + [Brandy Wingfield](Brandy-Wingfield-Resume.md)
