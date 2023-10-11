@@ -13,7 +13,7 @@ We will create a small animal adoption site using Java and JavaFX along with SQL
 
 + [**Technology Selection**](Technology-Description.md)
 
-+ **Project Plan**: 
++ [**Project Plan**](Project-Plan.md)
 
 + **Project Plan Video Presentation**
 ---
