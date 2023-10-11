@@ -19,6 +19,7 @@
 + Software Engineering
 + Technical Writing
 + Professional Practices & Ethics
++ Discrete Mathematics
 
 ## Technical Skills
 ### Languages
