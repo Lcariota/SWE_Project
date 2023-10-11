@@ -5,15 +5,15 @@ We will create a small animal adoption site using Java and JavaFX along with SQL
 
 + **Meet Our Team**
   + [Kendal Elison](Project-Plan/Kendal-Elison-Resume.md)
-  + [Vanesa Gomes](Vanesa-Gomes-Resume.md)
-  + [Laurel Cariota](Laurel-Cariota-Resume.md)
-  + [Brandy Wingfield](Brandy-Wingfield-Resume.md)
+  + [Vanesa Gomes](Project-Plan/Vanesa-Gomes-Resume.md)
+  + [Laurel Cariota](Project-Plan/Laurel-Cariota-Resume.md)
+  + [Brandy Wingfield](Project-Plan/Brandy-Wingfield-Resume.md)
 
-+ [**Team Assignments**](Team-Assignments.md)
++ [**Team Assignments**](Project-Plan/Team-Assignments.md)
 
-+ [**Technology Selection**](Technology-Description.md)
++ [**Technology Selection**](Project-Plan/Technology-Description.md)
 
-+ [**Project Plan**](Project-Plan.md)
++ [**Project Plan**](Project-Plan/Project-Plan.md)
 
 + [**Project Plan Video Presentation**](Project-Plan-Video-Presentation.md)
 ---
