@@ -19,11 +19,11 @@ We will create a small animal adoption site using Java and JavaFX along with SQL
   + [Project Plan Video Presentation](Presentations/Project-Plan-Video-Presentation.md)
 ---
 ## Requirements
-Here you will find all the documents concerning our requirements for this application. Below are our requirements writing which includes the release versions of our product, use case diagram, requirements table, and our presentation.
+Here you will find all the documents concerning our requirements for this application. Below are our requirements writing which include the release versions of our product, use case diagram, decision table, and our presentation.
 
 + **Requirement Overview**
   + [Requirement Writing](Requirements/Requirement-Writing.md)
   + [Use Case Diagram](Requirements/Use-Case-Diagram.md)
-  + [Requirements Table](Requirements/Requirements-Table.md)
+  + [Decision Table](Requirements/Decision-Table.md)
   + Requirements Video Presentation
 
