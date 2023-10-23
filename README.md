@@ -17,6 +17,6 @@ We will create a small animal adoption site using Java and JavaFX along with SQL
   + [Project Plan](Project-Plan/Project-Plan.md)
 
   + [Project Plan Video Presentation](Presentations/Project-Plan-Video-Presentation.md)
- 
 ---
+## Requirements
 
