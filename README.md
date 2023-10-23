@@ -5,8 +5,11 @@ We will create a small animal adoption site using Java and JavaFX along with SQL
 
 + **Meet Our Team**
   + [Kendal Elison](Project-Plan/Kendal-Elison-Resume.md)
+    
   + [Vanesa Gomes](Project-Plan/Vanesa-Gomes-Resume.md)
+    
   + [Laurel Cariota](Project-Plan/Laurel-Cariota-Resume.md)
+    
   + [Brandy Wingfield](Project-Plan/Brandy-Wingfield-Resume.md)
     
 + **Project Overview**
