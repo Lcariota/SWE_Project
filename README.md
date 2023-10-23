@@ -23,7 +23,10 @@ Here you will find all the documents concerning our requirements for this applic
 
 + **Requirement Overview**
   + [Requirement Writing](Requirements/Requirement-Writing.md)
+    
   + [Use Case Diagram](Requirements/Use-Case-Diagram.md)
+    
   + [Decision Table](Requirements/Decision-Table.md)
+    
   + Requirements Video Presentation
 
