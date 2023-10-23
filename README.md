@@ -8,13 +8,13 @@ We will create a small animal adoption site using Java and JavaFX along with SQL
   + [Vanesa Gomes](Project-Plan/Vanesa-Gomes-Resume.md)
   + [Laurel Cariota](Project-Plan/Laurel-Cariota-Resume.md)
   + [Brandy Wingfield](Project-Plan/Brandy-Wingfield-Resume.md)
++ **Project Overview**
+  + [**Team Assignments**](Project-Plan/Team-Assignments.md)
 
-+ [**Team Assignments**](Project-Plan/Team-Assignments.md)
+  + [**Technology Selection**](Project-Plan/Technology-Description.md)
 
-+ [**Technology Selection**](Project-Plan/Technology-Description.md)
+  + [**Project Plan**](Project-Plan/Project-Plan.md)
 
-+ [**Project Plan**](Project-Plan/Project-Plan.md)
-
-+ [**Project Plan Video Presentation**](Presentations/Project-Plan-Video-Presentation.md)
+  + [**Project Plan Video Presentation**](Presentations/Project-Plan-Video-Presentation.md)
 ---
 
