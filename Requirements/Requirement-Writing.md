@@ -3,9 +3,7 @@
 
 ## Version 1 
  &nbsp; UI design  
- 
  &nbsp; &nbsp; Self Regestration  
- 
  &nbsp; &nbsp; &nbsp; Account Self Regestration
  &nbsp; &nbsp; &nbsp;Priority - must have 
         Effort: 1 day
