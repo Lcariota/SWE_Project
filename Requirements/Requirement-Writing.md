@@ -77,7 +77,7 @@
     -  Display Grand Total  
  &nbsp; &nbsp; &nbsp; Priority - must have  
  &nbsp; &nbsp; &nbsp; Effort: ~ 1/4 day  
- &nbsp; &nbsp; &nbsp; Functional  
+ &nbsp; &nbsp; &nbsp; Non-Functional  
  &nbsp; &nbsp; &nbsp; Display subtotal, tax, shipping option = grand total  
     -  Display Credit card payment format  
  &nbsp; &nbsp; &nbsp; Priority - must have  
@@ -88,12 +88,12 @@
     -  Display Receipt  
  &nbsp; &nbsp; &nbsp; Priority - must have  
  &nbsp; &nbsp; &nbsp; Effort: ~ 1 day  
- &nbsp; &nbsp; &nbsp; Functional  
+ &nbsp; &nbsp; &nbsp; Non-Functional  
  &nbsp; &nbsp; &nbsp; Receipt must show last 4 digits of credit card and shipping address  
 - Technical design  
   - Login Screen  
     -  Add Account Self Regestration
- &nbsp; &nbsp; &nbsp;    Priority - must have  
+ &nbsp; &nbsp; &nbsp; Priority - must have  
  &nbsp; &nbsp; &nbsp; Effort: 1 day  
  &nbsp; &nbsp; &nbsp; Functional  
  &nbsp; &nbsp; &nbsp; Users must be able to create an account with a unique username and a password with at least 6 characters  
@@ -148,8 +148,8 @@
  &nbsp; &nbsp; &nbsp; Caclulate Grand total (Subtotal + (Subtotal * .06) + shipping cost)  
     -  Store Customer Information  
  &nbsp; &nbsp; &nbsp; Priority - must have  
- &nbsp; &nbsp; &nbsp;    Effort: ~ 1 day  
- &nbsp; &nbsp; &nbsp; Non-Functional  
+ &nbsp; &nbsp; &nbsp; Effort: ~ 1 day  
+ &nbsp; &nbsp; &nbsp; Functional  
  &nbsp; &nbsp; &nbsp; Store customer shipping address, phone number, credt card information and total  
   - Recipt   
     -  Show recipt after complete order  
