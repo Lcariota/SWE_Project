@@ -11,15 +11,15 @@
  &nbsp; &nbsp; &nbsp; Customer must be able to create an account with a unique username and a password  
  &nbsp; &nbsp; &nbsp; Sign-In screen  
     -  Create Customer Sign-in  
- &nbsp; &nbsp; &nbsp; priority - must have
- &nbsp; &nbsp; &nbsp; Effort: ~ 1/2 day
- &nbsp; &nbsp; &nbsp; Functional
- &nbsp; &nbsp; &nbsp; Customer must be able to sign in with their unique username and password 
+ &nbsp; &nbsp; &nbsp; priority - must have  
+ &nbsp; &nbsp; &nbsp; Effort: ~ 1/2 day  
+ &nbsp; &nbsp; &nbsp; Functional  
+ &nbsp; &nbsp; &nbsp; Customer must be able to sign in with their unique username and password  
     -  Create Admin Sign-in  
-        Priority - must have
-        Effort : ~ 1/2 day 
-        Functional 
-        Admin must be able to sign in with their unique username and password
+ &nbsp; &nbsp; &nbsp; Priority - must have  
+ &nbsp; &nbsp; &nbsp; Effort : ~ 1/2 day  
+ &nbsp; &nbsp; &nbsp; Functional  
+ &nbsp; &nbsp; &nbsp; Admin must be able to sign in with their unique username and password
     Main page
       Sort Inventory 
         Priority - must have
