@@ -9,7 +9,7 @@
  &nbsp; &nbsp; &nbsp; Effort: 1 day  
  &nbsp; &nbsp; &nbsp; Functional  
  &nbsp; &nbsp; &nbsp; Customer must be able to create an account with a unique username and a password  
- &nbsp; &nbsp; Sign-In screen  
+ &nbsp; &nbsp; &nbsp; Sign-In screen  
       Create Customer Sign-in 
         Priority - must have
         Effort: ~ 1/2 day
