@@ -1,11 +1,11 @@
-#Requirements Writing 
+# Requirements Writing 
 
 
-##Version 1 
-  UI design 
-    Self Regestration 
-      Account Self Regestration
-        Priority - must have 
+## Version 1 
+ &nbsp; UI design 
+ &nbsp; &nbsp; Self Regestration 
+ &nbsp; &nbsp; &nbsp; Account Self Regestration
+ &nbsp; &nbsp; &nbsp;Priority - must have 
         Effort: 1 day
         Functional 
         Customer must be able to create an account with a unique username and a password
@@ -90,7 +90,7 @@
         Effort: ~ 1 day
         Functional
         Receipt must show last 4 digits of credit card and shipping address 
-  Technical design
+*Tabspace* Technical design
     Login Screen 
       Add Account Self Regestration
         Priority - must have 
@@ -165,8 +165,8 @@
         Only Admins can run sales reports showing WHO purchased WHAT 
 
 
-##Version 2
-  Future UI design
+## Version 2
+ Future UI design
     Admin UI page
       Create Admin promotion page 
         Priority - want to have 
@@ -184,22 +184,22 @@
         Effort: ~ 2 days
         Functional
         UI page created so Admins can easily add inventory 
-  Future Technical design
-    Future Sales report
-      Admin can export sales report
-        Priority - need to have 
-        Effort: ~ 2 days
-        Functional
-        Admins can export sales report easily to CSV 
-      Sales Report receipts 
-        Priority - need to have 
-        Effort: ~ 3 days
-        Functional
-        Admins can pull up the corresponding receipt to a sales report item
-    Future Recipts
-      Receipts can be emailed to customer 
-        Priority - must have 
-        Effort: ~ 2 days
-        Functional
-        After completeting order, a receipt is automatically emailed to the customer if email is on file
+ Future Technical design
+Future Sales report
+ Admin can export sales report
+ Priority - need to have 
+ Effort: ~ 2 days
+ Functional
+ Admins can export sales report easily to CSV 
+ Sales Report receipts 
+ Priority - need to have 
+ Effort: ~ 3 days
+ Functional
+ Admins can pull up the corresponding receipt to a sales report item
+ Future Recipts
+ Receipts can be emailed to customer 
+ Priority - must have 
+ Effort: ~ 2 days
+ Functional
+ After completeting order, a receipt is automatically emailed to the customer if email is on file
 
