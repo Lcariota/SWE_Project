@@ -3,9 +3,9 @@
 
 ## Version 1 
 - UI design  
- - Self Regestration  
-  - Account Self Regestration  
-   - Priority - must have  
+  - Self Regestration
+    -  Account Self Regestration  
+     - Priority - must have  
  &nbsp; &nbsp; &nbsp; Effort: 1 day  
  &nbsp; &nbsp; &nbsp; Functional  
  &nbsp; &nbsp; &nbsp; Customer must be able to create an account with a unique username and a password  
