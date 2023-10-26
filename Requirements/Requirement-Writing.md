@@ -1,7 +1,7 @@
 # Requirements Writing 
 
 
-## Version 1 
+**Version 1**
 - UI design  
   - Self Regestration T2E-1  
     -  Account Self Regestration T2S-1  
@@ -165,7 +165,7 @@
  &nbsp; &nbsp; &nbsp; Only Admins can run sales reports showing WHO purchased WHAT   
 
 
-## Version 2
+**Version 2**
 - Future UI design  
   - Admin UI page T2E-15  
     -  Create Admin promotion page T2S-30  
