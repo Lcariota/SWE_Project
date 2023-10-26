@@ -198,7 +198,7 @@
  &nbsp; &nbsp; &nbsp; Admins can pull up the corresponding receipt to a sales report item  
     -   Future Recipts T2S-35  
  &nbsp; &nbsp; &nbsp; Receipts can be emailed to customer   
- &nbsp; &nbsp; &nbsp; Priority - must have  
+ &nbsp; &nbsp; &nbsp; Priority - want to have  
  &nbsp; &nbsp; &nbsp; Effort: ~ 2 days  
  &nbsp; &nbsp; &nbsp; Functional  
  &nbsp; &nbsp; &nbsp; After completeting order, a receipt is automatically emailed to the customer if email is on file  
