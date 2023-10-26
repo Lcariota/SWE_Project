@@ -1,14 +1,14 @@
 # Decision Tables
 ---
 ## Version 1
-### Admin
+### Administrator
 <img width="609" alt="SWE_Requirements_Admin" src="https://github.com/Lcariota/SWE_Project/assets/146140826/3a03ed88-27a9-44ce-97e8-53baa4ef0a9a">
 
 ### User
 <img width="894" alt="SWE_Requirements_User" src="https://github.com/Lcariota/SWE_Project/assets/146140826/75ec1476-48a5-4b2d-98a3-fd21f662af13">
 
 ## Version 2
-### Admin
+### Administrator
 <img width="578" alt="SWE_Requirements_AdminV2" src="https://github.com/Lcariota/SWE_Project/assets/146140826/803a168b-2ad3-4d8a-ae1c-076cbf41f150">
 
 ### User
