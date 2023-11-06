@@ -37,7 +37,7 @@ Here you will find all the documents concerning our requirements for Perfect Paw
 Here you will find links to our high-fidelity interactive mockup of Perfect Paws along with our presentation which will take you through our UI design.
 
 + **UI Design Overview**
-  + [UI Mockup](User-Interface-Design/User-Interface-Design-Mockup)
+  + [UI Design Mockup](User-Interface-Design/User-Interface-Design-Mockup)
     
   + Presentation
 
