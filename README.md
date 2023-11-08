@@ -39,5 +39,5 @@ Here you will find links to our high-fidelity interactive mockup of Perfect Paws
 + **UI Design Overview**
   + [UI Design Mockup](User-Interface-Design/User-Interface-Design-Mockup.md)
     
-  + Presentation
+  + [UI Video Presentation](Presentations/User-Interface-Video-Presentation.md)
 
