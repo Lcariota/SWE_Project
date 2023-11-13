@@ -12,8 +12,6 @@
 
 By selecting JavaFX as our framework, we aim to leverage its capabilities for creating an interactive and platform-independent user interface. Developers can explore the links below to understand JavaFX's documentation and find tutorials to enhance their skills in building UI components for our system.
 
-  +[JavaFX Documentation](https://openjfx.io/openjfx-docs/)
-  
-  +[JavaFX Information](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
-  
-  +[JavaFX Tutorial](https://www.youtube.com/watch?v=9XJicRt_FaI)
+  + [JavaFX Documentation](https://openjfx.io/openjfx-docs/)
+  + [JavaFX Information](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
+  + [JavaFX Tutorial](https://www.youtube.com/watch?v=9XJicRt_FaI)
