@@ -46,5 +46,18 @@ Here you will find all the documentation, diagrams, and material concerning the 
 
 + **Technical Design Overview**
     + [Implementation Language](Technical-Design/Implementation-Language.md)
+      
     + [Implementation Framework](Technical-Design/Implementation-Framework.md)
+ 
+    + Entity Relationship Diagram
+      
+        + Table of Entity/Field Descriptions
+        
+        + Example Data
+          
+    + Database Seed Data
+ 
+    + Data Storage Plan
+ 
+    + Coding Style Guide
 
