@@ -60,4 +60,6 @@ Here you will find all the documentation, diagrams, and material concerning the 
     + Data Storage Plan
  
     + Coding Style Guide
+ 
+    + Technical Design Video Presentation
 
