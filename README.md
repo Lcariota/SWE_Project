@@ -40,4 +40,9 @@ Here you will find links to our high-fidelity interactive mockup of Perfect Paws
   + [UI Design Mockup](User-Interface-Design/User-Interface-Design-Mockup.md)
     
   + [UI Video Presentation](Presentations/User-Interface-Video-Presentation.md)
+---
+## Technical Design
+Here you will find all the documentation, diagrams, and material concerning the Technical Design for our application Perfect Paws.
+  + [Implementation Language](Technical-Design/Implementation-Language.md)
+  + [Implementation Framework](Technical-Design/Implementation-Framework.md)
 
