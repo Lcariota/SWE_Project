@@ -15,7 +15,8 @@ This guide outlines the recommended coding conventions for Java development. Fol
   + **1.1 CamelCase**
       + Java class, field, method, and variable names follow the CamelCase convention, where words are concatenated, and the initial letter of each word is capitalized.
       + For variable names the first letter should remain lowercase.
-          + EX: String my dog
+          + Variable names should provide insight into their purpose. Opting for well-chosen names that hint at the variable's meaning contributes to effective program documentation. Avoid vague names like "var" or "num" and opt for more specific and descriptive names.
+              + EX: String studentGrades
       + There's an exception for constants, which are written in all caps with underscores, and they are often declared as static and final.
           + private final int MAX = 50;
   + **1.2 Class and Interface Names**
