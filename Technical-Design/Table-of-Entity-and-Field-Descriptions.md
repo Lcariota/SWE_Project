@@ -1,4 +1,4 @@
-# Table of Entity/Field Description 
+# Table of Entity/Field Descriptions 
 ### User Entity Table
 <img width="624" alt="SWE_TD1" src="https://github.com/Lcariota/SWE_Project/assets/146140826/aeba706a-8a74-4bae-9ded-b9a0bf72434a">
 
