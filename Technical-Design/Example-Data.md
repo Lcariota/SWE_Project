@@ -1,4 +1,5 @@
 # Example Data
-<img width="912" alt="SWE_ExData1" src="https://github.com/Lcariota/SWE_Project/assets/146140826/e91b24c2-144e-4301-a63b-0c0e926a99f7">
-<img width="924" alt="SWE_ExData2" src="https://github.com/Lcariota/SWE_Project/assets/146140826/f841f8a8-381a-43cf-96b7-940f4cb6bc6c">
+<img width="803" alt="SWE_ExData1" src="https://github.com/Lcariota/SWE_Project/assets/146140826/4237eca8-943b-4fb4-90e3-cf7c73c32d5e">
+<img width="686" alt="SWE_ExData2" src="https://github.com/Lcariota/SWE_Project/assets/146140826/39ac32c8-f031-4165-8606-c731efdb9ba1">
+<img width="925" alt="SWE_ExData3" src="https://github.com/Lcariota/SWE_Project/assets/146140826/e2a80230-0d17-42d0-919e-0d95df43e63e">
 
