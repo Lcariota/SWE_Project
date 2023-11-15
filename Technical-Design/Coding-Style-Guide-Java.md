@@ -95,8 +95,8 @@ This guide outlines the recommended coding conventions for Java development. Fol
               + private boolean administrator
       + protected: Protected components can be referenced within the class, within subclasses, and within any class defined in the same package.
 
-## Source Control Management (Git)
-  + **5.1 Repository Organization**
+## Source Control Management
+  + **5.1 Repository Organization Using Git**
       + Single Repository: Each project should have a dedicated Git repository.
       + Logical Structure: Organize the repository logically, with separate directories for source code, documentation, and resources.
   + **5.2 Branching Strategy**
