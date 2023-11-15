@@ -59,7 +59,7 @@ Here you will find all the documentation, diagrams, and material concerning the 
  
     + Data Storage Plan
  
-    + Coding Style Guide
+    + [Coding Style Guide](Technical-Design/Coding-Style-Guide-Java.md)
  
     + Technical Design Video Presentation
 
