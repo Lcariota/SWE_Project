@@ -51,7 +51,7 @@ Here you will find all the documentation, diagrams, and material concerning the 
  
     + Entity Relationship Diagram
       
-        + Table of Entity/Field Descriptions
+        + [Table of Entity/Field Descriptions](Technical-Design/Table-of-Entity-and-Field-Descriptions.md)
         
         + [Example Data](Technical-Design/Example-Data.md)
           
