@@ -1,8 +1,7 @@
 # Java Coding Style Guide
 
 Welcome to the Java Coding Style Guide! This document serves as a comprehensive set of guidelines and conventions for writing clean, readable, and maintainable Java code. Adhering to these standards not only enhances individual and team productivity but also contributes to the overall quality of our software.
-
-The primary purpose of this coding style guide is to establish a consistent coding style across our projects. Consistency is crucial for better collaboration among team members, as it minimizes confusion and improves the overall readability of the codebase. By following these guidelines, we aim to create code that is easy to understand, maintain, and extend.
+  + The primary purpose of this coding style guide is to establish a consistent coding style across our projects. Consistency is crucial for better collaboration among team members, as it minimizes confusion and improves the overall readability of the codebase. By following these guidelines, we aim to create code that is easy to understand, maintain, and extend.
 
 ## Table of Contents
   + [Naming Conventions](#naming-conventions)
