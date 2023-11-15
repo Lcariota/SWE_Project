@@ -2,7 +2,7 @@
 
 This guide outlines the recommended coding conventions for Java development. Following these guidelines will promote clarity, organization, and collaboration within the development team.
 
-**Table of Contents**
+##Table of Contents
   + [Naming Conventions](#naming-conventions)
   + [Indentation and Formatting](#indentation-and-formatting)
   + [Comments](#comments)
