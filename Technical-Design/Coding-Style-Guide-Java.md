@@ -9,7 +9,7 @@ This guide outlines the recommended coding conventions for Java development. Fol
   + Indentation and Formatting
   + Comments
   + Organization
-  + Source Control Management
+  + Source Control Management (Git)
 
 ## Naming Conventions
   + **1.1 CamelCase**
@@ -74,7 +74,7 @@ This guide outlines the recommended coding conventions for Java development. Fol
       + Place all field and class (static) variables at the beginning of a class, before all the methods.
   + **4.2 Method Length**
       + Keep methods between 20-50 lines
-          + If overlook to put some functionality into another method
+          + If over 50 put some functionality into another method
       + A long method body should generally be broken into a sequence of logical units, each performing some subtask.
           + Each of these logical units needs a comment that describes what the unit does.
           + // Do b
@@ -97,7 +97,24 @@ This guide outlines the recommended coding conventions for Java development. Fol
               + private boolean administrator
       + protected: Protected components can be referenced within the class, within subclasses, and within any class defined in the same package.
 
-
+## Source Control Management (Git)
+  + **5.1 Repository Organization**
+      + Single Repository: Each project should have a dedicated Git repository.
+      + Logical Structure: Organize the repository logically, with separate directories for source code, documentation, and resources.
+  + **5.2 Branching Strategy**
+      + **GitFlow**: Adopt the GitFlow branching strategy for development, testing, and release branches.
+          + main: Represents the production-ready code.
+          + develop: Integration branch for ongoing development.
+          + feature/: Prefix for feature branches.
+          + bugfix/: Prefix for bug-fix branches.
+          + release/: Prefix for release branches.
+          + hotfix/: Prefix for hotfix branches.
+  + **5.3 Collaboration**
+      + Pull Before Push: Always pull changes from the remote repository before pushing to avoid conflicts.
+      + Code Review: Enforce a code review process for all pull requests.
+      + Continuous Integration (CI): Integrate CI tools to automatically build and test code on each push.
+  + **5.4 Documentation**
+      + README.md: Include a well-documented README.md file providing an overview, setup instructions, and any other relevant information.
     
             
 
