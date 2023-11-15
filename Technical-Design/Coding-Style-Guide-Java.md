@@ -7,7 +7,7 @@ This guide outlines the recommended coding conventions for Java development. Fol
   + [Indentation and Formatting](#indentation-and-formatting)
   + [Comments](#comments)
   + [Organization](#organization)
-  + [Source Control Management (Git)](#source-control-management-(git))
+  + [Source Control Management](#source-control-management)
 
 ## Naming Conventions
   + **1.1 CamelCase**
