@@ -33,8 +33,6 @@ This guide outlines the recommended coding conventions for Java development. Fol
     + Avoid lines longer than 80 characters for better readability
     + When an expression will not fit on a single line, break it according to these general principles:
         + Break after operator
-            + num = bigNum + largeNum
-                    + biggerNum; 
         + Align the new line with the beginning of the original expression
     + Line wrapping for if statements should generally use the 8-space rule
   + **2.2 Use of Braces**
@@ -45,11 +43,31 @@ This guide outlines the recommended coding conventions for Java development. Fol
   + **2.3 Block Indentation**
     + Each time a new block is made, the indent increases by two spaces. When the block ends, the indent returns to the previous indent level. The indent level applies to both code and comments throughout the block.
   + **2.4 One Statement per Line**
+    + One declaration per line
+        + DONT DO THIS int level, size; 
     + Each statement is followed by a line break
     + Break up blocks of code as organizational and visually appealing as deemed
   + **2.5 Whitespace**
     + A single blank line may also appear anywhere it improves readability, for example between statements to organize the code into suitable subsections.
-    + Also between consecutive members or initializers of a class: fields, constructors, methods, nested classes. 
+    + Also between consecutive members or initializers of a class: fields, constructors, methods, nested classes.
+
+## Comments
+  + **3.1 When to Use**
+     + Comments should not duplicate the code but rather dispel confusion and further explain the piece of code if confusing.
+         + Programs can have 3 styles of comments: block, single-line, trailing
+  + **3.2 Block Comments**
+     + Block comments should be used at the beginning of each file and before each method.
+        + Block comments can start with /*
+            + /*
+            + * Here is a block comment.
+            + */
+  + **3.3 Single Line Comments**
+    + Short comments can appear on a single line indented to the level of the code that follows.
+        + // This is an if statement
+        + if ( x == y) {}
+  + **3.4 Trailing Comments**
+      + Very short comments can appear on the same line as the code they describe but should be shifted far enough to separate them from the statements.
+          + int grade = 90;       // initializes a grade
     
             
 
