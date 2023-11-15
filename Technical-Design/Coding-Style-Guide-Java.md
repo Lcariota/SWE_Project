@@ -8,7 +8,7 @@ This guide outlines the recommended coding conventions for Java development. Fol
   + Naming Conventions
   + Indentation and Formatting
   + Comments
-  + Documentation
+  + Organization
   + Source Control Management
 
 ## Naming Conventions
@@ -68,6 +68,36 @@ This guide outlines the recommended coding conventions for Java development. Fol
   + **3.4 Trailing Comments**
       + Very short comments can appear on the same line as the code they describe but should be shifted far enough to separate them from the statements.
           + int grade = 90;       // initializes a grade
+
+## Organization 
+  + **4.1 Field and Class variable declarations**
+      + Place all field and class (static) variables at the beginning of a class, before all the methods.
+  + **4.2 Method Length**
+      + Keep methods between 20-50 lines
+          + If overlook to put some functionality into another method
+      + A long method body should generally be broken into a sequence of logical units, each performing some subtask.
+          + Each of these logical units needs a comment that describes what the unit does.
+          + // Do b
+          + implementation of "Do b"
+   
+            
+          + // Do c
+          + implementation of "Do c"
+   
+            
+          + // Do d
+          + implementation of "Do d
+
+  + **4.3 Declare Local Variables Close to Use**
+      + Declare a variable as close to its first use as possible.
+  + **4.4 Public/Private Access Modifiers**
+      + public: Public items can be used anywhere.
+      + private: Private items can be referred to only in code within the class.
+          + Should be declared private if we don't want users to access them
+              + private boolean administrator
+      + protected: Protected components can be referenced within the class, within subclasses, and within any class defined in the same package.
+
+
     
             
 
