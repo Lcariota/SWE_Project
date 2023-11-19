@@ -1,4 +1,4 @@
-# Data Stroage Plan 
+# Data Storage Plan 
 
 - For this application, we will be using SQL for data storage  
 - We will be using Microsoft SQL to host a server  
