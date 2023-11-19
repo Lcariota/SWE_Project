@@ -55,7 +55,7 @@ Here you will find all the documentation, diagrams, and material concerning the 
         
         + [Example Data](Technical-Design/Example-Data.md)
           
-    + Database Seed Data
+    + [Database Seed Data](Technical-Design/Database-Seed-Data.md)
  
     + Data Storage Plan
  
