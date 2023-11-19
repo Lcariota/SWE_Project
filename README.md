@@ -61,5 +61,5 @@ Here you will find all the documentation, diagrams, and material concerning the 
  
     + [Coding Style Guide](Technical-Design/Coding-Style-Guide-Java.md)
  
-    + Technical Design Video Presentation
+    + [Technical Design Video Presentation](Presentations/Technical-Design-Video-Presentation.md)
 
