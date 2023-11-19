@@ -49,7 +49,7 @@ Here you will find all the documentation, diagrams, and material concerning the 
       
     + [Implementation Framework](Technical-Design/Implementation-Framework.md)
  
-    + Entity Relationship Diagram
+    + [Entity Relationship Diagram](Technical-Design/ERD.md)  
       
         + [Table of Entity/Field Descriptions](Technical-Design/Table-of-Entity-and-Field-Descriptions.md)
         
@@ -57,7 +57,7 @@ Here you will find all the documentation, diagrams, and material concerning the 
           
     + [Database Seed Data](Technical-Design/Database-Seed-Data.md)
  
-    + Data Storage Plan
+    + [Data Storage Plan](Technical-Design/Data-Storage-Plan.md)  
  
     + [Coding Style Guide](Technical-Design/Coding-Style-Guide-Java.md)
  
