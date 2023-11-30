@@ -30,7 +30,7 @@ Ensure that the Java Runtime Environment (JRE) is installed on the system and th
    
   + **Step 1: Clone the Repository**
     
-      + Link to repository found in this file [here](Implementation/Perfect-Paws-Application.md)
+      + Link to repository found in this file [here](Perfect-Paws-Application.md)
         
           + On GitHub.com, navigate to the main page of the repository. Above the list of files, click **<> Code**.
           + Copy the URL for the repository.
