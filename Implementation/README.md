@@ -13,3 +13,15 @@ The application is compatible with the following environments:
   + Linux: Compatible with various Linux distributions, including but not limited to Ubuntu, Fedora, and CentOS.
 
 Ensure that the Java Runtime Environment (JRE) is installed on the system and that SceneBuilder is integrated to JavaFX to run Perfect Pets successfully. The application's cross-platform compatibility ensures a consistent and enjoyable user experience across a diverse range of operating systems.
+
+## Steps to clone & build the application
+
+  + **Prerequisites**
+    
+      + Java Development Kit (JDK) installed on your machine.
+      + Maven installed.
+      + JavaFX installed.
+      + SceneBuilder for designing UI if required.
+      + Ensure that your machine meets the system requirements mentioned earlier (Windows, MacOS, or Linux).
+   
+  + **Step 1: Clone the Repository**
