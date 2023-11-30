@@ -78,5 +78,5 @@ Here you will find the final implementation of our application Perfect Paws. Inc
 ## Final Presentation
 Below is our final presentation demonstrating our working application Perfect Paws!
 
-+ Final Presentation
++ [Final Presentation](Presentations/Final-Presentation.md)
 
