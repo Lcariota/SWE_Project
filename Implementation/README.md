@@ -43,6 +43,35 @@ Ensure that the Java Runtime Environment (JRE) is installed on the system and th
               + git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
           + Press enter to create your clone.
 
+  + **Step 2: Dependencies**
+      + Ensure JDK is installed and JAVA_HOME is set.
+      + Make sure Maven is installed. If not, you can download it from the official Apache Maven website.
+      + Ensure JavaFX is installed. If not, download and set it up based on your operating system. Ensure that the JavaFX binaries are in your system's PATH.
+      + JSON should already be in the .xml file
+
+  + **Step 3: Build the Application**
+      + mvn clean install
+          + This command will download dependencies, compile the source code, and build the PerfectPaws application. Ensure that the build completes successfully without any errors.
+
+  + **Step 4: Run the Application**
+      + mvn javafx:run
+          + This command will launch the PerfectPaws application. Ensure that the application starts without any issues.
+
+  + **Step 5: Database Setup**
+      + Ensure that the necessary JSON files or data are present. Check for any provided scripts or instructions in the repository.
+
+  + **Step 6: Opening UI in SceneBuilder**
+      + SceneBuilder is used for UI design, open it and load the FXML files from the src/main/resources directory.
+          + If you don't have SceneBuilder downloaded
+              + Visit the official SceneBuilder download page: [Gluon SceneBuilder](https://gluonhq.com/products/scene-builder/)
+              + Choose the appropriate version for your operating system (Windows, macOS, or Linux) and download the installer.
+              + Configure SceneBuilder in your IDE (Optional):
+                  + If you're using an integrated development environment (IDE) like IntelliJ IDEA or Eclipse, you may need to configure the path to SceneBuilder in your IDE settings.       
+
+  + **Important Notes:**
+      + Ensure that JavaFX is correctly configured in IntelliJ IDEA. You may need to set the VM options in the Run Configuration to include the JavaFX modules.
+      + If SceneBuilder is used for UI design, you can open it from within IntelliJ IDEA. Go to Preferences/Settings > Languages & Frameworks > JavaFX, and set the path to your SceneBuilder executable.
+
         
    
     
