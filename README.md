@@ -71,8 +71,6 @@ Here you will find the final implementation of our application Perfect Paws. Inc
     + [Source Code](Implementation/Perfect-Paws-Application.md)
  
     + [Implementation Documentation](Implementation/README.md)
- 
-    + Implementation Presentation
 
 ---
 ## Final Presentation
