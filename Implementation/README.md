@@ -16,7 +16,7 @@ Ensure that the Java Runtime Environment (JRE) is installed on the system and th
 
 ## Steps to clone & build the application
 
-  + ###Prerequisites
+  + ### Prerequisites
     
       + Java Development Kit (JDK) installed on your machine.
         
