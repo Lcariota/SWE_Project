@@ -1,4 +1,4 @@
 # Perfect Paws Application
-Click [**here**](https://github.com/brandyy2/PerfectPaws) to see our commits and pushes from IntelliJ (will edit this once finished)
+Click [**here**](https://github.com/brandyy2/PerfectPaws) to see our commits and pushes from IntelliJ
 
 
