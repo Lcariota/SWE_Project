@@ -29,7 +29,7 @@ Ensure that the Java Runtime Environment (JRE) is installed on the system and th
       + Ensure that your machine meets the system requirements mentioned earlier (Windows, MacOS, or Linux).
 
    
-  + **Step 1: Clone the Repository**
+  + ### Step 1: Clone the Repository
     
       + Link to repository found in this file [here](Perfect-Paws-Application.md)
         
@@ -45,28 +45,28 @@ Ensure that the Java Runtime Environment (JRE) is installed on the system and th
           + Press enter to create your clone.
 
 
-  + **Step 2: Dependencies**
+  + ### Step 2: Dependencies
       + Ensure JDK is installed and JAVA_HOME is set.
       + Make sure Maven is installed. If not, you can download it from the official Apache Maven website.
       + Ensure JavaFX is installed. If not, download and set it up based on your operating system. Ensure that the JavaFX binaries are in your system's PATH.
       + JSON should already be in the .xml file
 
 
-  + **Step 3: Build the Application**
+  + ### Step 3: Build the Application
       + mvn clean install
           + This command will download dependencies, compile the source code, and build the PerfectPaws application. Ensure that the build completes successfully without any errors.
 
 
-  + **Step 4: Run the Application**
+  + ### Step 4: Run the Application 
       + mvn javafx:run
           + This command will launch the PerfectPaws application. Ensure that the application starts without any issues.
 
 
-  + **Step 5: Database Setup**
+  + ### Step 5: Database Setup
       + Ensure that the necessary JSON files or data are present. Check for any provided scripts or instructions in the repository.
 
 
-  + **Step 6: Opening UI in SceneBuilder**
+  + ### Step 6: Opening UI in SceneBuilder
       + SceneBuilder is used for UI design, open it and load the FXML files from the src/main/resources directory.
           + If you don't have SceneBuilder downloaded
               + Visit the official SceneBuilder download page: [Gluon SceneBuilder](https://gluonhq.com/products/scene-builder/)
