@@ -19,9 +19,32 @@ Ensure that the Java Runtime Environment (JRE) is installed on the system and th
   + **Prerequisites**
     
       + Java Development Kit (JDK) installed on your machine.
+        
       + Maven installed.
+        
       + JavaFX installed.
+        
       + SceneBuilder for designing UI if required.
+        
       + Ensure that your machine meets the system requirements mentioned earlier (Windows, MacOS, or Linux).
    
   + **Step 1: Clone the Repository**
+    
+      + Link to repository found in this file [here](Implementation/Perfect-Paws-Application.md)
+        
+          + On GitHub.com, navigate to the main page of the repository. Above the list of files, click **<> Code**.
+          + Copy the URL for the repository.
+              + To clone the repository using HTTPS, under "HTTPS", click copy.
+              + To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click copy.
+              + To clone a repository using GitHub CLI, click GitHub CLI, then click copy.
+          + Open Terminal.
+          + Change the current working directory to the location where you want the cloned directory.
+          + Type git clone, and then paste the URL you copied earlier.
+              + git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+          + Press enter to create your clone.
+
+        
+   
+    
+  
+
